@@ -24,3 +24,4 @@ window.addEventListener('DOMContentLoaded', function() {
   let outputElement = document.querySelector('.output')
   outputElement.insertAdjacentHTML('beforeend', 'Hello!')
 })
+
